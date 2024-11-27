@@ -49,10 +49,12 @@ $$N_v = 2(\frac{2πm_p^*kT}{h^2})^{3/2}$$
 $$n_i = \sqrt{N_cN_v}e^{-E_g/2kT}$$
 
 Temperature dependence:
-$$n_i(T) = 2(\frac{2πkT}{h^2})^{3/2}(m_n^*m_p^*)^{3/4}e^{-E_g/2kT}$$
+$$n_i(T) = 2\left(\frac{2\pi k T}{h^2}\right)^{3/2} \left(m_n m_p\right)^{3/4} e^{-E_g / (2 k T)}$$
+
 
 ### Intrinsic Fermi Level
-$$E_i = \frac{E_c + E_v}{2} + \frac{3}{4}\ln(\frac{m_p^*}{m_n^*})$$
+$$E_i = \frac{E_c + E_v}{2} + \frac{3}{4} \ln\left(\frac{m_p}{m_n}\right)$$
+
 
 For silicon:
 $$E_i = \frac{E_c + E_v}{2} - 12.8\text{ meV}$$
